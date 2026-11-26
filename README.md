@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Floor-Plan-Generation-Architectural-Tech/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Floor-Plan-Generation-Architectural-Tech?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Floor-Plan-Generation-Architectural-Tech/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Floor-Plan-Generation-Architectural-Tech?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Floor-Plan-Generation-Architectural-Tech/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Floor-Plan-Generation-Architectural-Tech?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -67,9 +67,9 @@ The global Architectural CAD, BIM & Floor Plan Visualization Software market is 
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub stars count. All star badges link directly to the repository stargazers page.*
+*Sorted descending by GitHub_Stars_Count. All Stars_Badges link directly to the repository stargazers page.*
 
-| Project | Stars | Focus Area / Description | License |
+| Project | GitHub_Stars | Focus Area / Description | License |
 | :--- | :--- | :--- | :--- |
 | **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** | <a href="https://github.com/FreeCAD/FreeCAD/stargazers"><img src="https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white" alt="FreeCAD Stars"/></a> | 🏛️ General-purpose 3D parametric CAD modeler with dedicated BIM and architectural workbenches, IFC import/export, and Python scripting. | LGPL-2.0+ |
 | **[Pascal Editor](https://github.com/pascalorg/editor)** | <a href="https://github.com/pascalorg/editor/stargazers"><img src="https://img.shields.io/github/stars/pascalorg/editor?style=social&color=white" alt="Pascal Editor Stars"/></a> | 🏢 Modern open-source 3D architecture software for AECO, scan-to-BIM, browser-first CAD, and AI agent integration (MCP / CLI). | AGPL-3.0 |
@@ -121,7 +121,7 @@ If you'd like to support ongoing curation and open-source research, feel free to
 Contributions are warmly welcomed! To suggest a new tool, add an open-source project, or update pricing:
 1. Fork this repository.
 2. Create a new feature branch (`git checkout -b feature/add-new-tool`).
-3. Add your tool with factual descriptions, exact starting pricing or star counts, and official links.
+3. Add your tool with factual descriptions, exact starting pricing or Stars_Counts, and official links.
 4. Open a Pull Request with a short summary of the addition.
 
 ---
